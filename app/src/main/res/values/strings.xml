@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CineApp</string>
+    <string name="action_settings">Configurações</string>
+
+    <!-- Movie App Strings -->
+    <string name="movie_poster">Pôster do Filme</string>
+    <string name="catalog_title">Filmes em Cartaz</string>
+    <string name="details_title">Detalhes do Filme</string>
+    <string name="reviews_title">Avaliações e Ingressos</string>
+
+    <string name="btn_view_details">Ver Detalhes</string>
+    <string name="btn_reviews">Ver Avaliações / Ingressos</string>
+    <string name="btn_book_ticket">Reservar Ingresso</string>
+    <string name="btn_back_catalog">Voltar ao Catálogo</string>
+
+    <string name="synopsis_label">Sinopse:</string>
+    <string name="director_label">Diretor:</string>
+    <string name="cast_label">Elenco:</string>
+    <string name="year_label">Ano:</string>
+    <string name="rating_label">Avaliação:</string>
+
+    <string name="ticket_success">Ingresso reservado com sucesso!</string>
+    <string name="review_added">Avaliação enviada com sucesso!</string>
+</resources>
